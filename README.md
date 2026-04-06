@@ -5,6 +5,7 @@
 int main() {
     int *arr;
     int n, new_size, i;
+    printf("_25331a05d8_\n");
     printf("Enter initial number of elements: ");
     scanf("%d", &n);
    arr = (int *)malloc(n * sizeof(int));
